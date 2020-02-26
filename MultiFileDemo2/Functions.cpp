@@ -13,4 +13,5 @@ double GetNumberFromUser()
 	double numOne;
 	cout << "please enter a number: ";
 	cin >> numOne;
+	cin.ignore;
 }
