@@ -21,8 +21,10 @@ int main()
     double sum = AddNumbers(num1, num2);
 
     //display results
+    DisplayResults(num1, num2, sum);
 
     //doanother
+
 
     return 0;
 }

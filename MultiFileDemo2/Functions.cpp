@@ -23,3 +23,8 @@ double AddNumbers(double num1, double num2)
 	sum = num1 + num2;
 	return sum;
 }
+
+void DisplayResults(double num1, double num2, double sum)
+{
+	cout << "The sum of " << num1 << " and " << num2 << " is " << sum << endl;
+}

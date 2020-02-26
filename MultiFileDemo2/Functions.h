@@ -10,4 +10,6 @@ double GetNumberOneFromUser();
 
 double AddNumbers(double num1, double num2);
 
+void DisplayResults(double num1, double num2, double sum);
+
 #endif // !_FUNCTION_H
