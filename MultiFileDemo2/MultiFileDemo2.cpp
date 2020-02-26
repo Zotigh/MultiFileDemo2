@@ -12,7 +12,7 @@ int main()
     DisplayHeader();
 
     // get num1 from user
-
+    GetNumberFromUser();
     // get num2 from user
 
     // display numbers

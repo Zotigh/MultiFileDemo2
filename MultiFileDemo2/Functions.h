@@ -6,4 +6,6 @@ using namespace std;
 
 void DisplayHeader();
 
+double GetNumberFromUser();
+
 #endif // !_FUNCTION_H
