@@ -28,3 +28,11 @@ void DisplayResults(double num1, double num2, double sum)
 {
 	cout << "The sum of " << num1 << " and " << num2 << " is " << sum << endl;
 }
+
+string DoAnother()
+{
+	string choice;
+	cout << "\nCalculate another? (y/n); ";
+	cin >> choice;
+	cin.ignore();
+}
