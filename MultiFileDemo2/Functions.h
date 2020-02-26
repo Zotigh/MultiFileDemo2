@@ -6,6 +6,8 @@ using namespace std;
 
 void DisplayHeader();
 
-double GetNumberFromUser();
+double GetNumberOneFromUser();
+
+double AddNumbers(double num1, double num2);
 
 #endif // !_FUNCTION_H

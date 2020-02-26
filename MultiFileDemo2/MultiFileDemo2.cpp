@@ -12,12 +12,13 @@ int main()
     DisplayHeader();
 
     // get num1 from user
-    GetNumberFromUser();
-    // get num2 from user
+    double num1 = GetNumberOneFromUser();
 
-    // display numbers
+    // get num2 from user
+    double num2 = GetNumberOneFromUser();
 
     // add numbers 
+    double sum = AddNumbers(num1, num2);
 
     //display results
 
