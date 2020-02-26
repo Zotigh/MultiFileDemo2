@@ -13,7 +13,7 @@ double GetNumberOneFromUser()
 	double numOne;
 	cout << "please enter a number: ";
 	cin >> numOne;
-	cin.ignore;
+	cin.ignore();
 	return numOne;
 }
 
