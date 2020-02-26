@@ -4,4 +4,6 @@
 
 using namespace std;
 
+void DisplayHeader();
+
 #endif // !_FUNCTION_H

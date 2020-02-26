@@ -2,12 +2,14 @@
 // comment header 
 
 #include <iostream>
+#include "Functions.h"
+
 using namespace std;
 
 int main()
 {
     // display header 
-    cout << "" << endl;
+    DisplayHeader();
 
     // get num1 from user
 
